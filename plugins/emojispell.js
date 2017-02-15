@@ -16,7 +16,7 @@ const letters = {
 	8: ['eight'],
 	9: ['nine'],
 	a: ['mlb_ari','mlb_atl','mlb_laa','mlb_oak','ncaa_alcn','ncaa_app','ncaa_ariz','ncaa_army','ncaah_uaf'],
-	b: ['mlb_bos','nba_bkn','ncaa_brad','ncaah_bent','nfl_cin','nhl_bos'],
+	b: ['mlb_bos','nfl_cin','nba_bkn','nfl_cin','ncaa_brad','nfl_cin','ncaah_bent','nfl_cin','nhl_bos'],
 	c: ['mlb_chc','mlb_cin','mlb_cle','ncaa_camp','ncaa_chat','ncaa_cin','ncaa_cmu','ncaa_cofc','ncaa_colg','nfl_chi','nhl_cgy','nhl_mtl'],
 	d: ['mlb_det','ncaa_dart','ncaa_day','ncaa_duke','ncaaw_denison','nhl_ana'],
 	e: ['ncaa_emu','ncaa_etsu'],
