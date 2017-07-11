@@ -10,6 +10,10 @@ const listeners = [
 	{
 		trigger: /release the kraken/,
 		response: "https://asphyxia.com/i/release-the-wee-kraken.jpg"
+	},
+	{
+		trigger: /[Aa]utomagic[aly]*/,
+		response: ":wizard_hat:  Automagically\t\t\t:buggy:\n:j_c2: /\n:shirt::magic_wand:\n:jeans:"
 	}
 ];
 
